@@ -22,7 +22,7 @@
 
 > ~~[Manual Open dikit]~~
 ## ✅ Rawat Akun
-> [List Joki Manual](<https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/blob/main/RawatAkun.md>)
+> [List Joki](<https://github.com/Alisa-Mikhailovna/Alisa-Pilot-Joki-Game/blob/main/RawatAkun.md>)
 
 ---------
 --------
