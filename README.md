@@ -17,12 +17,12 @@
 
 > ~~[Manual Closed]~~
 ## ✅ Honkai Star Rail
-> ~~[Harga Joki Cheat](<https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/blob/main/HargaJokiCheat2.md>)~~
+> [Harga Joki Cheat](<https://github.com/Alisa-Mikhailovna/Alisa-Pilot-Joki-Game/blob/main/HsrCheat.md>)
 
 
-> ~~[Price List Joki Manual](<https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/blob/main/PriceListJokiManualHSR.md>)~~
+> ~~[Manual Open dikit]~~
 ## ✅ Rawat Akun
-> [Genshin Impact](<https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/blob/main/RawatAkun.md>)
+> [List Joki Manual](<https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/blob/main/RawatAkun.md>)
 
 ---------
 --------
