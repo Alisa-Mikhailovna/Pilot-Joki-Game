@@ -1,5 +1,5 @@
 # Note
-![gambar](https://github.com/ryuhuu/Daftar-Harga-Joki-Genshin-Impact/assets/136698330/56e170c1-74d5-4560-8c2a-92afb614d5d2)
+![gambar](https://github.com/Alisa-Mikhailovna/Pilot-Joki-Game/blob/main/Alya.png)
 
 
 # ⭐ Genshin Impact (CHEAT)
