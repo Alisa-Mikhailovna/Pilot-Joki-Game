@@ -20,7 +20,7 @@
 > [Harga Joki Cheat](<https://github.com/Alisa-Mikhailovna/Alisa-Pilot-Joki-Game/blob/main/HsrCheat.md>)
 
 
-> ~~[Manual Open dikit]~~
+> [Manual Open dikit](<https://github.com/Alisa-Mikhailovna/Pilot-Joki-Game/blob/main/HsrManual.md>)
 ## ✅ Rawat Akun
 > [List Joki](<https://github.com/Alisa-Mikhailovna/Alisa-Pilot-Joki-Game/blob/main/RawatAkun.md>)
 
